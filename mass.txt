@@ -1,8 +1,7 @@
 //java coding
+import java.util.*;
 class Myclass
 {
-public ststic void main(String[] args)
-{
-system.out.println("i am very happy ");
+public static void main(String[] args)
 }
 }
